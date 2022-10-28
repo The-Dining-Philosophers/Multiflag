@@ -1,0 +1,34 @@
+# docker-compose.yml
+version: "3.8"
+
+services:
+  db:
+    image: mongo
+    container_name: db
+    volumes: 
+      - ./data/db:/data/db
+    ports:
+      - 27017:27017
+
+  backend:
+    container_name: backend
+    build: ./multiflag-back
+    volumes:
+      - ./multiflag-back:/multiflag-back
+      - /node_modules
+    ports:
+      - 8080:8080
+    depends_on:
+      - db
+
+  frontend:
+    container_name: frontend
+    build: ./multiflag-front
+    volumes:
+      - ./multiflag-front:/multiflag-front
+      - /node_modules
+    ports:
+      - 3000:3000
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+  

@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const app = require('./app');
 
-const mongodb = process.env.MONGODB || 'mongodb://localhost:27017/multiflag';
+const mongodb = process.env.MONGODB || 'mongodb://db:27017/multiflag';
 const port = process.env.PORT || 8080;
 
 mongoose.connect(mongodb, { useNewUrlParser: true, useUnifiedTopology: true }, (err) => {
