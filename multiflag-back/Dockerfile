@@ -3,13 +3,13 @@ FROM node:16
 # Set the working directory
 WORKDIR /multiflag-back
 # Copy app dependencies to container
-COPY package*.json .
+COPY package*.json ./
 
 # Install dependencies
 RUN npm ci
 
 # Get code
-COPY . .
+COPY . ./
 
 # Expose port
 EXPOSE 8080
