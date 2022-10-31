@@ -11,6 +11,9 @@ const FlagSchema = new Schema({
         type: String,
         required: [true, 'A path is required'],
         index: { unique: true }
+    },
+    continent: {
+        type: String
     }
 });
 
