@@ -8,6 +8,17 @@ function getFlags(req, res) {
     });
 };
 
+function postFlag(req, res) {
+    const flag = new Flag(req.body);
+
+    Flag.create(flag, (err) => {
+        if (err) return res.status(500).send({ message: `Error creating flag: ${err}`});
+
+        return res.status(200).send({ messasge: 'Flag created successfully'});
+    });
+}
+
 module.exports = {
-    getFlags
+    getFlags,
+    postFlag
 };
