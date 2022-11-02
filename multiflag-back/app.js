@@ -15,5 +15,6 @@ app.use((req, res, next) => {
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use('/flag', flagRoute);
+app.use(express.static('img'));
 
 module.exports = app;
