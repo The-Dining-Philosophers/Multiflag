@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Spain",
+		"path": "/flags_countries/es.svg",
+		"continent": "Europe"
+	},
+	{
+		"name": "Belarus",
+		"path": "/flags_countries/by.svg",
+		"continent": "Europe"
+	}
+]

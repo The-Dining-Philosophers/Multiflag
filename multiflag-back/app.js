@@ -1,6 +1,6 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const flagRoute = require('./routes/flagRoutes');
+const flagsRoute = require('./routes/flagsRoutes');
 const app = express();
 
 
@@ -14,7 +14,7 @@ app.use((req, res, next) => {
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
-app.use('/flag', flagRoute);
+app.use('/flags', flagsRoute);
 app.use(express.static('img'));
 
 module.exports = app;
