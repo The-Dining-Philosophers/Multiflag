@@ -12,15 +12,9 @@ services:
 
   db-seed:
     container_name: db-seed
-    env_file:
-      - .env
     build:
       context: ./db-seed
       dockerfile: Dockerfile
-      args:
-        - DATABASE_URI=$DATABASE_URI
-        - USERNAME=$MONGO_INITDB_ROOT_USERNAME
-        - PASSWORD=$MONGO_INITDB_ROOT_PASSWORD
     depends_on:
       - db
       
