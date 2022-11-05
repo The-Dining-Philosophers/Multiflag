@@ -1,12 +1,1247 @@
 [
-	{
-		"name": "Spain",
-		"path": "/flags_countries/es.svg",
-		"continent": "Europe"
-	},
-	{
-		"name": "Belarus",
-		"path": "/flags_countries/by.svg",
-		"continent": "Europe"
-	}
+    {
+        "name": "Afghanistan",
+        "path": "/flags_countries/af.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Aland Islands",
+        "path": "/flags_countries/ax.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Albania",
+        "path": "/flags_countries/al.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Algeria",
+        "path": "/flags_countries/dz.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "American Samoa",
+        "path": "/flags_countries/as.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Andorra",
+        "path": "/flags_countries/ad.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Angola",
+        "path": "/flags_countries/ao.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Anguilla",
+        "path": "/flags_countries/ai.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Antarctica",
+        "path": "/flags_countries/aq.svg",
+        "continent": "Polar"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "path": "/flags_countries/ag.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Argentina",
+        "path": "/flags_countries/ar.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Armenia",
+        "path": "/flags_countries/am.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Aruba",
+        "path": "/flags_countries/aw.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Australia",
+        "path": "/flags_countries/au.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Austria",
+        "path": "/flags_countries/at.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Azerbaijan",
+        "path": "/flags_countries/az.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Bahamas",
+        "path": "/flags_countries/bs.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Bahrain",
+        "path": "/flags_countries/bh.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Bangladesh",
+        "path": "/flags_countries/bd.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Barbados",
+        "path": "/flags_countries/bb.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Belarus",
+        "path": "/flags_countries/by.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Belgium",
+        "path": "/flags_countries/be.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Belize",
+        "path": "/flags_countries/bz.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Benin",
+        "path": "/flags_countries/bj.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Bermuda",
+        "path": "/flags_countries/bm.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Bhutan",
+        "path": "/flags_countries/bt.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Bolivia",
+        "path": "/flags_countries/bo.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "path": "/flags_countries/bq.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "path": "/flags_countries/ba.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Botswana",
+        "path": "/flags_countries/bw.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Bouvet Island",
+        "path": "/flags_countries/bv.svg",
+        "continent": "Antarctic Ocean"
+    },
+    {
+        "name": "Brazil",
+        "path": "/flags_countries/br.svg",
+        "continent": "America"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "path": "/flags_countries/io.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "path": "/flags_countries/um.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Virgin Islands (British)",
+        "path": "/flags_countries/vg.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Virgin Islands (U.S.)",
+        "path": "/flags_countries/vi.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Brunei Darussalam",
+        "path": "/flags_countries/bn.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Bulgaria",
+        "path": "/flags_countries/bg.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Burkina Faso",
+        "path": "/flags_countries/bf.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Burundi",
+        "path": "/flags_countries/bi.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Cambodia",
+        "path": "/flags_countries/kh.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Cameroon",
+        "path": "/flags_countries/cm.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Canada",
+        "path": "/flags_countries/ca.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Cabo Verde",
+        "path": "/flags_countries/cv.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Cayman Islands",
+        "path": "/flags_countries/ky.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Central African Republic",
+        "path": "/flags_countries/cf.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Chad",
+        "path": "/flags_countries/td.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Chile",
+        "path": "/flags_countries/cl.svg",
+        "continent": "America"
+    },
+    {
+        "name": "China",
+        "path": "/flags_countries/cn.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Christmas Island",
+        "path": "/flags_countries/cx.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "path": "/flags_countries/cc.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Colombia",
+        "path": "/flags_countries/co.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Comoros",
+        "path": "/flags_countries/km.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Congo",
+        "path": "/flags_countries/cg.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Cook Islands",
+        "path": "/flags_countries/ck.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Costa Rica",
+        "path": "/flags_countries/cr.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Croatia",
+        "path": "/flags_countries/hr.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Cuba",
+        "path": "/flags_countries/cu.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Curaçao",
+        "path": "/flags_countries/cw.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Cyprus",
+        "path": "/flags_countries/cy.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Czech Republic",
+        "path": "/flags_countries/cz.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Democratic Republic of the Congo",
+        "path": "/flags_countries/cd.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Denmark",
+        "path": "/flags_countries/dk.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Djibouti",
+        "path": "/flags_countries/dj.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Dominica",
+        "path": "/flags_countries/dm.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Dominican Republic",
+        "path": "/flags_countries/do.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Ecuador",
+        "path": "/flags_countries/ec.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Egypt",
+        "path": "/flags_countries/eg.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "El Salvador",
+        "path": "/flags_countries/sv.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "path": "/flags_countries/gq.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Eritrea",
+        "path": "/flags_countries/er.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Estonia",
+        "path": "/flags_countries/ee.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Ethiopia",
+        "path": "/flags_countries/et.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Falkland Islands (Malvinas)",
+        "path": "/flags_countries/fk.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Faroe Islands",
+        "path": "/flags_countries/fo.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Fiji",
+        "path": "/flags_countries/fj.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Finland",
+        "path": "/flags_countries/fi.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "France",
+        "path": "/flags_countries/fr.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "French Guiana",
+        "path": "/flags_countries/gf.svg",
+        "continent": "America"
+    },
+    {
+        "name": "French Polynesia",
+        "path": "/flags_countries/pf.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "French Southern Territories",
+        "path": "/flags_countries/tf.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Gabon",
+        "path": "/flags_countries/ga.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Gambia",
+        "path": "/flags_countries/gm.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Georgia",
+        "path": "/flags_countries/ge.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Germany",
+        "path": "/flags_countries/de.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Ghana",
+        "path": "/flags_countries/gh.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Gibraltar",
+        "path": "/flags_countries/gi.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Greece",
+        "path": "/flags_countries/gr.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Greenland",
+        "path": "/flags_countries/gl.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Grenada",
+        "path": "/flags_countries/gd.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Guadeloupe",
+        "path": "/flags_countries/gp.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Guam",
+        "path": "/flags_countries/gu.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Guatemala",
+        "path": "/flags_countries/gt.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Guernsey",
+        "path": "/flags_countries/gg.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Guinea",
+        "path": "/flags_countries/gn.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "path": "/flags_countries/gw.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Guyana",
+        "path": "/flags_countries/gy.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Haiti",
+        "path": "/flags_countries/ht.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "path": "/flags_countries/hm.svg",
+        "continent": "Antarctic"
+    },
+    {
+        "name": "Vatican City",
+        "path": "/flags_countries/va.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Honduras",
+        "path": "/flags_countries/hn.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Hungary",
+        "path": "/flags_countries/hu.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Hong Kong",
+        "path": "/flags_countries/hk.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Iceland",
+        "path": "/flags_countries/is.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "India",
+        "path": "/flags_countries/in.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Indonesia",
+        "path": "/flags_countries/id.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Ivory Coast",
+        "path": "/flags_countries/ci.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Iran",
+        "path": "/flags_countries/ir.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Iraq",
+        "path": "/flags_countries/iq.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Ireland",
+        "path": "/flags_countries/ie.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Isle of Man",
+        "path": "/flags_countries/im.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Israel",
+        "path": "/flags_countries/il.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Italy",
+        "path": "/flags_countries/it.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Jamaica",
+        "path": "/flags_countries/jm.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Japan",
+        "path": "/flags_countries/jp.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Jersey",
+        "path": "/flags_countries/je.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Jordan",
+        "path": "/flags_countries/jo.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Kazakhstan",
+        "path": "/flags_countries/kz.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Kenya",
+        "path": "/flags_countries/ke.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Kiribati",
+        "path": "/flags_countries/ki.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Kuwait",
+        "path": "/flags_countries/kw.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "path": "/flags_countries/kg.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Laos",
+        "path": "/flags_countries/la.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Latvia",
+        "path": "/flags_countries/lv.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Lebanon",
+        "path": "/flags_countries/lb.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Lesotho",
+        "path": "/flags_countries/ls.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Liberia",
+        "path": "/flags_countries/lr.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Libya",
+        "path": "/flags_countries/ly.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Liechtenstein",
+        "path": "/flags_countries/li.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Lithuania",
+        "path": "/flags_countries/lt.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Luxembourg",
+        "path": "/flags_countries/lu.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Macao",
+        "path": "/flags_countries/mo.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "North Macedonia",
+        "path": "/flags_countries/mk.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Madagascar",
+        "path": "/flags_countries/mg.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Malawi",
+        "path": "/flags_countries/mw.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Malaysia",
+        "path": "/flags_countries/my.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Maldives",
+        "path": "/flags_countries/mv.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Mali",
+        "path": "/flags_countries/ml.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Malta",
+        "path": "/flags_countries/mt.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Marshall Islands",
+        "path": "/flags_countries/mh.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Martinique",
+        "path": "/flags_countries/mq.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Mauritania",
+        "path": "/flags_countries/mr.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Mauritius",
+        "path": "/flags_countries/mu.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Mayotte",
+        "path": "/flags_countries/yt.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Mexico",
+        "path": "/flags_countries/mx.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Micronesia",
+        "path": "/flags_countries/fm.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Moldova",
+        "path": "/flags_countries/md.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Monaco",
+        "path": "/flags_countries/mc.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Mongolia",
+        "path": "/flags_countries/mn.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Montenegro",
+        "path": "/flags_countries/me.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Montserrat",
+        "path": "/flags_countries/ms.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Morocco",
+        "path": "/flags_countries/ma.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Mozambique",
+        "path": "/flags_countries/mz.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Myanmar",
+        "path": "/flags_countries/mm.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Namibia",
+        "path": "/flags_countries/na.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Nauru",
+        "path": "/flags_countries/nr.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Nepal",
+        "path": "/flags_countries/np.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Netherlands",
+        "path": "/flags_countries/nl.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "New Caledonia",
+        "path": "/flags_countries/nc.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "New Zealand",
+        "path": "/flags_countries/nz.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Nicaragua",
+        "path": "/flags_countries/ni.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Niger",
+        "path": "/flags_countries/ne.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Nigeria",
+        "path": "/flags_countries/ng.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Niue",
+        "path": "/flags_countries/nu.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Norfolk Island",
+        "path": "/flags_countries/nf.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "North Korea",
+        "path": "/flags_countries/kp.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "path": "/flags_countries/mp.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Norway",
+        "path": "/flags_countries/no.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Oman",
+        "path": "/flags_countries/om.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Pakistan",
+        "path": "/flags_countries/pk.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Palau",
+        "path": "/flags_countries/pw.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Palestine",
+        "path": "/flags_countries/ps.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Panama",
+        "path": "/flags_countries/pa.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Papua New Guinea",
+        "path": "/flags_countries/pg.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Paraguay",
+        "path": "/flags_countries/py.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Peru",
+        "path": "/flags_countries/pe.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Philippines",
+        "path": "/flags_countries/ph.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Pitcairn",
+        "path": "/flags_countries/pn.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Poland",
+        "path": "/flags_countries/pl.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Portugal",
+        "path": "/flags_countries/pt.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Puerto Rico",
+        "path": "/flags_countries/pr.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Qatar",
+        "path": "/flags_countries/qa.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Kosovo",
+        "path": "/flags_countries/xk.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Réunion",
+        "path": "/flags_countries/re.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Romania",
+        "path": "/flags_countries/ro.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Russian Federation",
+        "path": "/flags_countries/ru.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Rwanda",
+        "path": "/flags_countries/rw.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Saint Barthélemy",
+        "path": "/flags_countries/bl.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "path": "/flags_countries/sh.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "path": "/flags_countries/kn.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Saint Lucia",
+        "path": "/flags_countries/lc.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "path": "/flags_countries/pm.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "path": "/flags_countries/vc.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Samoa",
+        "path": "/flags_countries/ws.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "San Marino",
+        "path": "/flags_countries/sm.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "path": "/flags_countries/st.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Saudi Arabia",
+        "path": "/flags_countries/sa.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Senegal",
+        "path": "/flags_countries/sn.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Serbia",
+        "path": "/flags_countries/rs.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Seychelles",
+        "path": "/flags_countries/sc.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Sierra Leone",
+        "path": "/flags_countries/sl.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Singapore",
+        "path": "/flags_countries/sg.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Sint Maarten",
+        "path": "/flags_countries/sx.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Slovakia",
+        "path": "/flags_countries/sk.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Slovenia",
+        "path": "/flags_countries/si.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Solomon Islands",
+        "path": "/flags_countries/sb.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Somalia",
+        "path": "/flags_countries/so.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "South Africa",
+        "path": "/flags_countries/za.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "South Georgia and the South Sandwich Islands",
+        "path": "/flags_countries/gs.svg",
+        "continent": "America"
+    },
+    {
+        "name": "South Korea",
+        "path": "/flags_countries/kr.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Spain",
+        "path": "/flags_countries/es.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Sri Lanka",
+        "path": "/flags_countries/lk.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Sudan",
+        "path": "/flags_countries/sd.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "South Sudan",
+        "path": "/flags_countries/ss.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Suriname",
+        "path": "/flags_countries/sr.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "path": "/flags_countries/sj.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Swaziland",
+        "path": "/flags_countries/sz.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Sweden",
+        "path": "/flags_countries/se.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Switzerland",
+        "path": "/flags_countries/ch.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "Syria",
+        "path": "/flags_countries/sy.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Taiwan",
+        "path": "/flags_countries/tw.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Tajikistan",
+        "path": "/flags_countries/tj.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Tanzania",
+        "path": "/flags_countries/tz.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Thailand",
+        "path": "/flags_countries/th.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Timor-Leste",
+        "path": "/flags_countries/tl.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Togo",
+        "path": "/flags_countries/tg.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Tokelau",
+        "path": "/flags_countries/tk.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Tonga",
+        "path": "/flags_countries/to.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "path": "/flags_countries/tt.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Tunisia",
+        "path": "/flags_countries/tn.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Turkey",
+        "path": "/flags_countries/tr.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Turkmenistan",
+        "path": "/flags_countries/tm.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "path": "/flags_countries/tc.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Tuvalu",
+        "path": "/flags_countries/tv.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Uganda",
+        "path": "/flags_countries/ug.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Ukraine",
+        "path": "/flags_countries/ua.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "United Arab Emirates",
+        "path": "/flags_countries/ae.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "United Kingdom",
+        "path": "/flags_countries/gb.svg",
+        "continent": "Europe"
+    },
+    {
+        "name": "United States of America",
+        "path": "/flags_countries/us.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Uruguay",
+        "path": "/flags_countries/uy.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Uzbekistan",
+        "path": "/flags_countries/uz.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Vanuatu",
+        "path": "/flags_countries/vu.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Venezuela",
+        "path": "/flags_countries/ve.svg",
+        "continent": "America"
+    },
+    {
+        "name": "Vietnam",
+        "path": "/flags_countries/vn.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Wallis and Futuna",
+        "path": "/flags_countries/wf.svg",
+        "continent": "Oceania"
+    },
+    {
+        "name": "Western Sahara",
+        "path": "/flags_countries/eh.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Yemen",
+        "path": "/flags_countries/ye.svg",
+        "continent": "Asia"
+    },
+    {
+        "name": "Zambia",
+        "path": "/flags_countries/zm.svg",
+        "continent": "Africa"
+    },
+    {
+        "name": "Zimbabwe",
+        "path": "/flags_countries/zw.svg",
+        "continent": "Africa"
+    }
 ]
