@@ -11,6 +11,9 @@ function getFlags(req, res) {
 function postFlag(req, res) {
     const flag = new Flag(req.body);
 
+    if (!flag.path.startsWith('/'))
+        return res.status(422).send({ message: 'Path sould start with the character \'/\''});
+
     Flag.create(flag, (err) => {
         if (err) return res.status(500).send({ message: `Error creating flag: ${err}`});
 
