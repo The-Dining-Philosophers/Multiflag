@@ -42,7 +42,7 @@
     {
         "name": "Antarctica",
         "path": "/flags_countries/aq.svg",
-        "continent": "Polar"
+        "continent": "Antarctica"
     },
     {
         "name": "Antigua and Barbuda",
@@ -148,11 +148,6 @@
         "name": "Botswana",
         "path": "/flags_countries/bw.svg",
         "continent": "Africa"
-    },
-    {
-        "name": "Bouvet Island",
-        "path": "/flags_countries/bv.svg",
-        "continent": "Antarctic Ocean"
     },
     {
         "name": "Brazil",
@@ -343,6 +338,11 @@
         "name": "El Salvador",
         "path": "/flags_countries/sv.svg",
         "continent": "America"
+    },
+    {
+        "name": "England",
+        "path": "/flags_countries/gb-eng.svg",
+        "continent": "Europe"
     },
     {
         "name": "Equatorial Guinea",
@@ -830,6 +830,11 @@
         "continent": "Asia"
     },
     {
+        "name": "Northern Ireland",
+        "path": "/flags_countries/gb-nir.svg",
+        "continent": "Europe"
+    },
+    {
         "name": "Northern Mariana Islands",
         "path": "/flags_countries/mp.svg",
         "continent": "Oceania"
@@ -983,6 +988,11 @@
         "name": "Saudi Arabia",
         "path": "/flags_countries/sa.svg",
         "continent": "Asia"
+    },
+    {
+        "name": "Scotland",
+        "path": "/flags_countries/gb-sct.svg",
+        "continent": "Europe"
     },
     {
         "name": "Senegal",
@@ -1218,6 +1228,11 @@
         "name": "Vietnam",
         "path": "/flags_countries/vn.svg",
         "continent": "Asia"
+    },
+    {
+        "name": "Wales",
+        "path": "/flags_countries/gb-wls.svg",
+        "continent": "Europe"
     },
     {
         "name": "Wallis and Futuna",
