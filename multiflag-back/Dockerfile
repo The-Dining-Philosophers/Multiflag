@@ -1,7 +1,8 @@
-# Dockerfile# Pull the base image
+# Base image
 FROM node:16
-# Set the working directory
-WORKDIR /multiflag-back
+
+# Working directory
+WORKDIR /usr/src/multiflag-back
 
 # Install nodemon for live updates
 RUN npm install -g nodemon

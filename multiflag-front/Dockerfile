@@ -1,7 +1,9 @@
-# Dockerfile# Pull the base image
+# Base image
 FROM node:16
-# Set the working directory
-WORKDIR /multiflag-front
+
+# Working directory
+WORKDIR /usr/src/multiflag-front
+
 # Copy app dependencies to container
 COPY package*.json ./
 
@@ -14,7 +16,7 @@ COPY . ./
 # Expose port
 EXPOSE 3000
 
-# Get permissions for node_modules
+# Create cache folder
 RUN mkdir ./node_modules/.cache && chmod -R 777 ./node_modules/.cache
 
 # Deploy app for local development
